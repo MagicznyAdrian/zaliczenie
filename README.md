@@ -35,3 +35,4 @@ Projekt ten służy do wyświetlania losowych cytatów wraz z nazwiskami ich aut
 ## Przykładowy wynik działania
 - Cytat: "To be or not to be, that is the question."
 - Autor: William Shakespeare
+- (Wszystkie cytaty będąw języku angielskim)
