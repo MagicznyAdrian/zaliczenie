@@ -25,9 +25,6 @@ Projekt ten służy do wyświetlania losowych cytatów wraz z nazwiskami ich aut
 ### HTML/CSS
 - **Zastosowanie**: Do tworzenia i stylizacji struktury strony.
 
-## Jak uruchomić
-1. Pobierz pliki projektu.
-2. Otwórz `index.html` w przeglądarce.
 
 ## Uwagi
 - Klucz API (`MY_API_KEY`) jest wymagany do korzystania z API Quotes i musi być przechowywany w osobnym pliku `config.js`.
